@@ -12,3 +12,6 @@ Sorghum bicolor, commonly called sorghum[2] (/ˈsɔːrɡəm/) and also known as 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/84/Sorghum_bicolor03.jpg">
 
 Sorghum bicolor is the cultivated species of sorghum; its wild relatives make up the botanical genus Sorghum.
+
+The first archaeological remnants of sorghum are at Nabta Playa on the Upper Nile, c. 8000 BC. However, these are wild sorghum, with small grains and a brittle rachis. Sorghum is believed to have been domesticated from the wild Sorghum verticilliform in perhaps 7000–5000 BC in the Niger River valley.[10][11][12]
+<param ve-map>
