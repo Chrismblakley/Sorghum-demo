@@ -4,7 +4,7 @@
        title="Sorghum" 
        author="Chris Blakley" 
        layout="vertical"
-       banner="https://picsum.photos/id/164/1000/400">
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sorgho_rouge_blanc.jpg/1280px-Sorgho_rouge_blanc.jpg">
 
 # Sorghum
 
